@@ -56,11 +56,9 @@ I'm a **Full Stack Developer** with **1 year of experience**, specializing in **
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrhmanElsyoufy&theme=radical" alt="GitHub Streak" />
-</p>
+---
 
+<h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdelrhmanElsyoufy&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -68,4 +66,9 @@ I'm a **Full Stack Developer** with **1 year of experience**, specializing in **
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanElsyoufy&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrhmanElsyoufy&theme=radical" alt="GitHub Streak" onerror="this.onerror=null; this.parentElement.removeChild(this);" />
+</p>
+
 
