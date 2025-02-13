@@ -10,33 +10,33 @@
 
 ---
 
-### 🔧 **Tech Stack & Tools**
+### 🔧 Tech Stack & Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="50" height="50"/>
-
+  <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="50" height="50"/>
+  </a>
   <a href="https://www.w3schools.com/cs/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
   </a>
   <a href="https://angular.io/" target="_blank">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
   </a>
   <a href="https://www.w3schools.com/html/" target="_blank">
-    <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="HTML5" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="CSS3" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="50" height="50"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   </a>
 </p>
-
 ---
 
 ### 📌 **Projects**
