@@ -54,15 +54,18 @@ I'm a **Full Stack Developer** with **1 year of experience**, specializing in **
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelrahmanElsyoufy&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+---
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanElsyoufy&show_icons=true&theme=radical" alt="GitHub Stats" />
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanElsyoufy&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=AbdelrahmanElsyoufy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanElsyoufy&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanElsyoufy&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
