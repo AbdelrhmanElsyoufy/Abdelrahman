@@ -1,64 +1,54 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Aly</h1>
-<h3 align="center">Full Stack Developer | .NET & Angular Enthusiast</h3>
-
-🎯 **About Me**  
-I'm a **Full Stack Developer** with **1 year of experience**, specializing in **.NET Core, C#, and Angular**. Passionate about **building scalable web applications**, optimizing performance, and applying **clean architecture** principles.  
-
-💡 **Tech Stack**  
-✔ **Backend:** ASP.NET Core, C#, Web API, Entity Framework Core  
-✔ **Frontend:** Angular, HTML, CSS, JavaScript, Bootstrap  
-✔ **Database:** SQL Server, EF Core  
-✔ **Tools & Concepts:** RESTful APIs, Authentication (JWT, ASP.NET Identity), Clean Architecture, SOLID, DDD  
-
-- 🌱 Currently learning **advanced software architecture & cloud technologies**  
-- 📫 Reach me at **aengabdelrhman@gmail.com**  
+<h3 align="center">A Passionate Full Stack .NET Developer | ASP.NET Core | C# | Angular</h3>
 
 ---
 
-<h3 align="left">📌 Connect with Me:</h3>
+### 🔹 **About Me**
+🚀 Full Stack Developer with **1+ year of experience** specializing in **ASP.NET Core, C#, Angular, and SQL Server**.  
+💡 Passionate about building scalable web applications, optimizing database queries, and integrating **RESTful APIs** & **SOAP services**.  
+📚 Always learning new technologies to enhance development and system architecture.  
+
+---
+
+### 🔧 **Tech Stack & Tools**
 <p align="left">
-<a href="https://www.linkedin.com/in/abdelrhman3liahmed/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://www.facebook.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-</a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg" alt=".NET" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="HTML5" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="CSS3" width="50" height="50"/>
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="50" height="50"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="50" height="50"/>
+  </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
-<p align="left">
-<a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer">
-<img src="https://github.com/get-icon/geticon/blob/master/icons/dotnet.svg" alt=".NET" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-</a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer">
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-</a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-<img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="HTML5" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="CSS3" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-<img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
-</a>
-</p>
+### 📌 **Projects**
+🚀 **MADARES Website** – Developed a dynamic school management system using **ASP.NET Core & Angular**.  
+🛒 **E-Commerce App** – Built a fully functional online store with **ASP.NET Core API & Angular**.  
+📚 **Library Management System** – Created an intuitive library app using **ASP.NET MVC & EF Core**.  
+🏠 **Department & Housing App** – Developed a real estate management system with **.NET API & Angular**.  
 
 ---
 
----
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
+### 📊 **GitHub Stats**
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdelrhmanElsyoufy&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -71,4 +61,13 @@ I'm a **Full Stack Developer** with **1 year of experience**, specializing in **
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrhmanElsyoufy&theme=radical" alt="GitHub Streak" onerror="this.onerror=null; this.parentElement.removeChild(this);" />
 </p>
 
+---
 
+### 🌎 **Connect with Me**
+📧 **Email:** [aengabdelrhman@gmail.com](mailto:aengabdelrhman@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/abdelrhman3liahmed](https://www.linkedin.com/in/abdelrhman3liahmed/)  
+📘 **Facebook:** [facebook.com/abdelrhman](https://www.facebook.com/)  
+
+---
+
+🔥 **Let's Build Something Amazing!** 🚀  
