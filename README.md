@@ -62,10 +62,10 @@ I'm a **Full Stack Developer** with **1 year of experience**, specializing in **
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanElsyoufy&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrhmanElsyoufy&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanElsyoufy&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanElsyoufy&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
