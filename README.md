@@ -1,30 +1,68 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Aly</h1>
-<h3>Hello, I'm Abdelrahman Aly, a dedicated Computer Science Graduated at Minya University. As a junior backend developer, I bring a solid foundation in ASP.NET, C#, and MS SQL database technologies.</h3>
+<h3 align="center">Full Stack Developer | .NET & Angular Enthusiast</h3>
 
-- 📫 How to reach me **aengabdelrhman@gmail.com**
+🎯 **About Me**  
+I'm a **Full Stack Developer** with **1 year of experience**, specializing in **.NET Core, C#, and Angular**. Passionate about **building scalable web applications**, optimizing performance, and applying **clean architecture** principles.  
 
+💡 **Tech Stack**  
+✔ **Backend:** ASP.NET Core, C#, Web API, Entity Framework Core  
+✔ **Frontend:** Angular, HTML, CSS, JavaScript, Bootstrap  
+✔ **Database:** SQL Server, EF Core  
+✔ **Tools & Concepts:** RESTful APIs, Authentication (JWT, ASP.NET Identity), Clean Architecture, SOLID, DDD  
 
+- 🌱 Currently learning **advanced software architecture & cloud technologies**  
+- 📫 Reach me at **aengabdelrhman@gmail.com**  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h3 align="left">📌 Connect with Me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abdelrhman3liahmed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abdelrhman3liahmed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelrahman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdelrhman3liahmed/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+</a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+<h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left">
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/dotnet.svg" alt=".net" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="html" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="css" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="js" width="40" height="40"/> </a>
-</a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a></p>
+<a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/dotnet.svg" alt=".NET" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+</a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer">
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="HTML5" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="CSS3" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
+</a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelrhmanElsyoufy&show_icons=true&locale=en&layout=compact&theme=radical" alt="Abdelrahman" /></p>
+---
 
+<h3 align="left">📊 GitHub Stats:</h3>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelrahmanElsyoufy&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<p > <img src="https://github-readme-stats.vercel.app/api?username=elazazy424&show_icons=true&theme=radical" alt="ahmedelazazy" /> </p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanElsyoufy&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elazazy424&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelazazy" /> </p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=AbdelrahmanElsyoufy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
